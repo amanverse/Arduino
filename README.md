@@ -1,2 +1,2 @@
 # Arduino
-All tests and working projects using Arduino IDE
+All tests and working projects using Arduino platform
